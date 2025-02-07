@@ -23,7 +23,7 @@ import MusicPlayer from '../components/MusicPlayer';
 const Home = () => {
   const weddingDate = "2025-03-09T10:00:00";
   const groomPartyDate = "2025-03-09T10:00:00";
-  const bridePartyDate = "2025-03-09T08:00:00";
+  const bridePartyDate = "2025-03-08T16:00:00";
 
   const formatDate = (date) => {
     return new Date(date).toLocaleDateString('vi-VN', {
